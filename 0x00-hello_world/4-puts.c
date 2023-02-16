@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* This program demonstrates the use of the main function in C. */
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+*/
 
 int main(void)
 {
