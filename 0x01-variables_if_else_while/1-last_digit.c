@@ -18,7 +18,8 @@ int main(void)
 	/* your code goes there */
 	printf("Last digit of %d is ", n);
 
-	int last_digit = n % 10;
+	int last_digit;
+	last_digit = n % 10;
 
 	if (last_digit > 5)
 
