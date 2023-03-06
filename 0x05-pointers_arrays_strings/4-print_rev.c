@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * print_rev - Prints a string
  *
