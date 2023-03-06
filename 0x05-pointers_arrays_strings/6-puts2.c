@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * puts2 - Prints every other character of a str
  * @str: The input string
@@ -14,5 +16,5 @@ void puts2(char *str)
 		i += 2;
 	}
 
-	putchar('\n');
+gputchar('\n');
 }
