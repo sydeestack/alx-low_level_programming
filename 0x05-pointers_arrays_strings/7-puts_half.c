@@ -12,7 +12,7 @@
 int example_function(int param1, char *param2)
 {
 	/* Declare variables with a single declaration per line */
-	int i, j;
+	int i, j, k;
 
 	/* Use spaces to separate operators and after commas */
 	i = param1 + 2;
@@ -29,7 +29,7 @@ int example_function(int param1, char *param2)
 	}
 
 	/* Use a space after keywords like if, while, for, etc. */
-	for (int k = 0; k < j; k++)
+	for (k = 0; k < j; k++)
 	{
 		/* Use tabs for indentation */
 		if (param2[k] == ' ')
